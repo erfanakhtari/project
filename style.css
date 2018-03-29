@@ -1,0 +1,180 @@
+﻿*
+{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:whitesmoke;
+    direction:rtl;
+    font-family:'Arial';
+}
+
+#menu {
+    width: 100%;
+    height: 50px;
+    background-color: #808177;
+    color: white;
+    font-size: 18px;
+    text-align: right;
+    box-shadow:1px 1px 10px green;
+}
+
+#all
+{
+    width:995px;
+    height:auto;
+    background-color:white;
+    margin:auto;
+}
+#header
+{
+    width:100%;
+    height:200px;
+    background-image:url('\img\\11.png');
+    color:white;
+    font-size:18px;
+    text-align:center;
+    box-shadow: 1px 1px 50px aqua;
+}
+#pheader
+{
+    padding-top:70px;
+}
+#content
+{
+    display:inline
+}
+.Rightpanel {
+    width: 200px;
+    height: auto;
+    float: right;
+    margin-bottom:10px;
+}
+.bodypanel {
+    width: 200px;
+    height: auto;
+    background-color: white;
+    padding-bottom:10px;
+    border: 1PX solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.post {
+    width: 520px;
+    height: auto;
+    background-color: #e8dbdb;
+    float: right;
+    margin-right: 40px;
+}
+.posttitle {
+    font-family:'Adobe Arabic';
+    font-size:22px;
+  
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+.postfont {
+ font-family:'Adobe Arabic';
+        color:white;
+        font-size:15pt;
+        margin:10px 10px 0px 0px;
+}
+.Leftpanel {
+    width: 200px;
+    height: auto;
+    background-color: white;
+    padding-bottom: 8px;
+    border: 1PX solid black;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    background-color: white;
+    float: left;
+    
+}
+#footer{
+    width: 100%;
+    height: 200px;
+    background-color: #2a2828;
+    color: white;
+    font-size: 18px;
+    text-align:  right;
+    float: right;
+    margin-top: 50px;
+    
+}
+.ulme li
+{
+    display:inline;
+}
+.ulme li a 
+{
+   color:white;
+    text-decoration: none;
+    float:right;
+    margin:14px 10px 2px 50px;
+}
+    .ulme li a:hover {
+        color: #f8e505;
+        
+    }
+    .titlepanel
+    {
+        width:100%;
+        height:50px;
+        background-color:#0638f8;
+        border: 1px solid #000000 ;
+        border-radius:5px;
+    }
+    .texttitle{
+        font-family:'Adobe Arabic';
+        color:white;
+        font-size:15pt;
+        margin:10px 10px 0px 0px;
+
+    }
+.ulbody {
+    font-family: 'Adobe Arabic';
+    color: black;
+    font-size: 17pt;
+    margin: 10px 15px 0px 0px;
+   
+    
+}
+.ulbody ul li{
+    margin-bottom:4px;
+    text-decoration: none;
+    list-style: none;
+}
+    .ulbody ul li a {
+
+        text-decoration: none;
+        list-style: none;
+    }
+
+        .ulbody ul li a:hover {
+            color: red;
+            
+            
+        }
+        .footertitle{
+            font-family:'Adobe Arabic';
+            font-size:22px;
+            color:white;
+            margin-top:50px;
+            margin-right:20px;
+                
+        }
+.stylepost {
+    margin-top: 20px;
+    margin-right:20px;
+    font-family: 'Adobe Arabic';
+    font-size: 24pt;
+    color: black;
+}
+.styleppost {
+    margin-top:10px;
+    margin-right:5px;
+}
